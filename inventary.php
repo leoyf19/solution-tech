@@ -40,16 +40,16 @@
                     <h3>Problema - Enfoque Sistémico</h3>
                     <div class="d-flex gap-2">
                         <img src="assets/img/problema.jpeg" alt="" height="500px" width="500px">
-                        <img src="assets/img/enfoque-sistemico.jpg" alt="" height="500px" width="500px">
+                        <img src="assets/img/enfoque-sistemico.png" alt="" height="500px" width="500px">
                     </div>
                 </div>
 
                 <div class="mt-5">
                     <h3>Diagrama Causal</h3>
-                    <img src="assets/img/diagrama-causal.jpeg" alt="">
+                    <img src="assets/img/diagrama-causal.jpg" alt="">
                 </div>
                 
-                <iframe class="mt-5" src="https://exchange.iseesystems.com/models/player/leonardo-valencia-cortes/tgs-leo" frameborder="0" width="1200px" height="800px"></iframe>
+                <iframe class="mt-5" src="https://exchange.iseesystems.com/models/player/leonardo-valencia-cortes/tgs-test" frameborder="0" width="1200px" height="800px"></iframe>
 
                 <div class="mt-5">
                     <h3>Gráfica organizacional empresarial</h3>
