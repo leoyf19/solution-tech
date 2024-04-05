@@ -12,8 +12,8 @@
       <div class="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
-            <i class="bi bi-table"></i>
-            <h3><a href="">Inventario</a></h3>
+            <i class="ri-bar-chart-box-line"></i>
+            <h3><a href="inventary.php">Inventario</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
